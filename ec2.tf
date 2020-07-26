@@ -12,3 +12,4 @@ resource "aws_instance" "mainins" {
   }
 key_name = "firstkeypair"
 }
+#work in progress
